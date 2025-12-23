@@ -1,0 +1,10 @@
+chat-fight-bot/
+│
+├── main.py
+├── requirements.txt
+│
+└── bot/
+    ├── config.py
+    ├── handlers.py
+    ├── fight.py
+    └── replies.py
